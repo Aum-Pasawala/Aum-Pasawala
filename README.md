@@ -1,19 +1,25 @@
 <h1>Hi, I'm Aum! </h1>
 
 <h2>👨‍💻 Mechanical Design and Testing Projects:</h2>
+
 - <b>ME 470: Senior Design</b>
   - [Self-Deicing Pavement](https://github.com/joshmadakor1/Algorithms-Practice)
-  
+ 
 - <b>ME 371: Mechanical Design II</b>
   - [Transmission](https://github.com/joshmadakor1/Algorithms-Practice)
+
 - <b>ME 370: Mechanical Design I</b>
   - [Automated Fruit Feeder and Slicer](https://github.com/joshmadakor1/Algorithms-Practice)
+
 - <b>Personal Project (Summer 2023)</b>
-  - [Poker Table (In Progress)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Poker Table (In Progress)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+ 
 - <b>ME 270: Design for Manufacturability</b>
   - [Rube Goldberg Machine](https://github.com/joshmadakor1/EncrypterPOC)
+ 
 - <b>Personal Project (Summer 2022)</b>
   - [Go Kart](https://github.com/joshmadakor1/Sentinel-Lab)
+ 
 - <b>ME 170: Computer Aided Design</b>
   - [EcoTowel](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
