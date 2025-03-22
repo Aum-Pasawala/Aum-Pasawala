@@ -15,7 +15,7 @@
   - [Poker Table (In Progress)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
 - <b>ME 270: Design for Manufacturability</b>
-  - [Rube Goldberg Machine](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Rube Goldberg Machine](https://github.com/Aum-Pasawala/Rube-Goldberg-Machine)
  
 - <b>Personal Project (Summer 2022)</b>
   - [Go Kart](https://github.com/joshmadakor1/Sentinel-Lab)
