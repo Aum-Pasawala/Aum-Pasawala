@@ -21,7 +21,7 @@
   - [Go Kart](https://github.com/joshmadakor1/Sentinel-Lab)
  
 - <b>ME 170: Computer Aided Design</b>
-  - [EcoTowel](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [EcoTowel](https://github.com/Aum-Pasawala/EcoTowel)
 
 <h2> 🤳 Connect with me:</h2>
 
